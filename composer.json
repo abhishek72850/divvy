@@ -1,5 +1,13 @@
 {
+    "name": "divvy/team",
+    "description": "Note sharing app",
     "require": {
-        "php": ">=5.2.0",
-    }
+        "php": "^7.3"
+    },
+    "authors": [
+        {
+            "name": "Team Divvy",
+            "email": "team@divvy.com"
+        }
+    ]
 }
